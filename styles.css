@@ -1,0 +1,17 @@
+body {
+  background-color: SeaShell;
+}
+h1 {
+  font-family: Verdana;
+  color: DimGrey;
+}
+p1 {
+  font-family: Helvetica;
+  color: Grey;
+  font-size: 17px
+}
+p2 {
+	font-family: Helvetica;
+	color: Grey;
+	font-size: 12px
+}
